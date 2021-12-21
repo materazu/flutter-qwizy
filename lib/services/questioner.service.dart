@@ -1,4 +1,4 @@
-import 'package:qwizy/models/question.dart';
+import 'package:qwizy/models/question.model.dart';
 
 List<Question> questions = [
   Question(questionText: 'Apple à été créé par John Doe ?', answer: false),
